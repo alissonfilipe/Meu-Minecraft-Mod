@@ -1,0 +1,29 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Meu primeiro Behavior Pack",
+        "name": "MeuPrimeiroAddon_BP",
+        "uuid": "2079f7f6-b3f1-4e2e-9557-9c117e86bc0c",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            14,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "type": "data",
+            "uuid": "87edbd8d-3643-41bf-ae3d-2bb8b547b462",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}

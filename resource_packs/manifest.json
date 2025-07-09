@@ -1,0 +1,29 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Meu primeiro Resource Pack",
+        "name": "MeuPrimeiroAddon_RP",
+        "uuid": "a6ffffd0-9add-4db5-a61b-9ca8100ddb27",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            14,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "a85011d0-3df6-4dad-b5f9-dc2653f9723a",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}
