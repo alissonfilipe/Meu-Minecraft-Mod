@@ -1,0 +1,33 @@
+{
+    "format_version": "1.10.0",
+    "minecraft:entity": {
+        "description": {
+            "identifier": "minecraft:zombie",
+            "is_spawnable": true,
+            "is_summonable": true,
+            "is_experimental": false
+        },
+        "components": {
+            "minecraft:health": {
+                "value": 20,
+                "max": 20
+            },
+            "minecraft:explodable": {},
+            "minecraft:explode": {
+                "fuse_length": 40,
+                "fuse_lit": false,
+                "power": 3,
+                "causes_fire": false,
+                "breaks_blocks": true
+            },
+            "minecraft:behavior.explode": {
+                "priority": 1,
+                "fuse_length": 40,
+                "fuse_lit": true,
+                "power": 3,
+                "causes_fire": false,
+                "breaks_blocks": true
+            }
+        }
+    }
+}
