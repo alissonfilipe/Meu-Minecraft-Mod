@@ -1,5 +1,7 @@
-# MODS
-tenho que organizar melhor essa estrutura e pra funcionar com calma
+# aulas 
+- aula 1 -> sobre texturas, algo mais simples sem mexer em configurações avançadas
+[![Assista no YouTube](https://img.youtube.com/vi/qSk3bx7sGvs/0.jpg)](https://www.youtube.com/watch?v=qSk3bx7sGvs)
+
 
 # aplicativo e sites necessários 
 🎨 https://www.blockbench.net (aplicativo e site para fazer os desings)
