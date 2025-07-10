@@ -1,2 +1,6 @@
-# Meu-Minecraft-Mod
-aprendendo e construindo mods no minecraft, e atulizando o pack e salvando as coisas aqui, no futuro espero que esse projeto cresça e que as pessoas possas ajudar, a idéia é muito simples, melhorar o minecraft, e esse melhorar é segundo a minha opinião, espero que você não se irritellkkkkkk
+# MODS
+tenho que organizar melhor essa estrutura e pra funcionar com calma
+
+## Bedrock Add-On Sample Files
+
+The following sample files provide the latest resource and behavior examples for creating Add-Ons for Minecraft: Bedrock Edition. The source of these files is available at https://github.com/mojang/bedrock-samples. For more information on how to create Add-Ons for Minecraft, please visit https://minecraft.net/creator and https://learn.microsoft.com/minecraft/creator.
