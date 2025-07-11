@@ -5,7 +5,8 @@
 
 # aplicativo e sites necessários 
 
-<i class="fi fi-rs-edit"></i> https://learn.microsoft.com/pt-br/minecraft/creator/documents/gettingstarted?view=minecraft-bedrock-stable&tabs=Windows10 (documentação oficial)
+🤌 https://learn.microsoft.com/pt-br/minecraft/creator/documents/gettingstarted?view=minecraft-bedrock-stable&tabs=Windows10 (documentação oficial)
+
 🎨 https://www.blockbench.net (aplicativo e site para fazer os desings)
 
 🧠 https://bedrock.dev (Documentação técnica da Bedrock)
