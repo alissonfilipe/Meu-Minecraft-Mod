@@ -7,6 +7,10 @@
 
 🤌 https://learn.microsoft.com/pt-br/minecraft/creator/documents/gettingstarted?view=minecraft-bedrock-stable&tabs=Windows10 (documentação oficial)
 
+https://www.flaticon.com/br/icon-fonts-mas-baixados?weight=regular&type=uicon (ícones)
+
+https://www.piskelapp.com/p/create/sprite/ (desenhar os sprits)
+
 🎨 https://www.blockbench.net (aplicativo e site para fazer os desings)
 
 🧠 https://bedrock.dev (Documentação técnica da Bedrock)
